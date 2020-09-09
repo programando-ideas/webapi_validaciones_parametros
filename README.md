@@ -1,6 +1,6 @@
 # 🚧 Validación de Parámetros de entrada 🚧 - Asp.Net Core WebApi
 
-En este [video]() veremos como reforzar las validaciones de los parámetros de entrada de nuestras APIs.
+En este [video](https://youtu.be/CELr1qGkkUI) veremos como reforzar las validaciones de los parámetros de entrada de nuestras APIs.
 Para ello utilizaremos dos elementos que nos brinda el Framework .Net Core:
 
   - ```IValidatableObject```: Para validaciones a nivel de objeto.
